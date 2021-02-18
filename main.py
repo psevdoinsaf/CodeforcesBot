@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, Defau
 
 from botcommands import start, closest_rounds, get_user_info, get_contest_standings, get_last_round
 
-API_KEY = "1697589398:AAGGFcUCdXGrqBq0Yux9UOTWLnoWdkaSvAI"
+API_KEY = "TOKEN"
 
 
 def main():
